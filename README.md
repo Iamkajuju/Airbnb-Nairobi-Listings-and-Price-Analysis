@@ -15,6 +15,10 @@
 ### Description
 This project was built as a hands-on opportunity to practice the full range of Excel-based analysis: data cleaning, exploratory analysis, PivotTable construction, KPI design, and dashboard building. I worked with Inside Airbnb's Nairobi dataset.Beyond the mechanics, the project became a case study in why reputation, not price, tends to predict booking success, and in the importance of questioning outliers rather than letting them quietly skew the story.
 
+<img width="1867" height="645" alt="Screenshot 2026-09-17 124747" src="https://github.com/user-attachments/assets/d789ba68-7bc5-4487-ace9-cf215ec6328b" />
+
+
+
 ### Tools
 Microsoft Excel (Power Query, PivotTables, PivotCharts, Conditional Formatting, Formulas, Box & Whisker Charts, Histogram)
 
